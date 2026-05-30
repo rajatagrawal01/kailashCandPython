@@ -1,0 +1,85 @@
+Front-End -user end- html,css,JS
+Backend - Python, Java, C/C++, Nodejs etc
+Databases - SQL,Mongodb
+
+Python is Backend programming language for creating logics.
+
+print("Hello")
+
+
+
+Go to official website of python
+download python for windows
+install
+
+
+how to check
+
+open cmd and type
+python
+
+HLL(English)								LLL(Binary)
+Code----------------------------->Translator---------------------------->Machine/Computer
+
+Translator types
+
+1 Compiler - C/C++,Java- read at once and provide errors collectively
+2 Interpreter - Python , JS - Stops reading code as soon as it sees an error
+
+Read complete code,find errors and write them down somewhere else
+
+
+Download IDE(Integrated Developer's env)
+vscode,sublime,jupyter,etc
+
+VSCode
+
+
+
+
+
+
+
+
+C/C++
+Oldest programming language
+Introduced in 1948
+The code is complex and lengthy in C/C++
+Fastest Executing Programming Language
+It is machine friendly PL
+Best for building logics
+Medical,Autopilot,flight control,Blockchain,Gaming
+
+
+
+print("Hello")
+
+
+TurboC++
+
+
+
+
+Syntax
+
+
+library
+main method/function
+
+
+C and C++
+C++ works on Object Oriented Programming System(OOPS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
