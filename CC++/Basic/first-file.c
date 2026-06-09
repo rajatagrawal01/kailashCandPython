@@ -7,7 +7,7 @@
 
 // Returning function
 int main(){
-    printf("Hello");
+    printf("Hello C");
     return 0;
 }
 
