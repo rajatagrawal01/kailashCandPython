@@ -8,7 +8,7 @@ int main(){
     // }
 
     // char name[]="Kailash";
-    // printf("%s\n",name);
+    // printf("%s\n",name); // 8
     // int length = sizeof(name)/sizeof(name[0]);
     // printf("Length of array is : %d\n",length);
 
