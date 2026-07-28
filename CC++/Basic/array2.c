@@ -8,7 +8,7 @@ int main(){
 
     // Defining array without size
 
-    int arr4[]={34,342,346,457,76,45};
+    int arr4[]={34,342,346,457,76,45,23};
 
     int size = sizeof(arr4)/sizeof(arr4[0]);
 

@@ -7,7 +7,10 @@
 
 // Returning function
 int main(){
-    printf("Hello C");
+    int a;
+    // printf("Value of a is %d",a);
+    printf("Enter the value: ")
+    scanf
     return 0;
 }
 
