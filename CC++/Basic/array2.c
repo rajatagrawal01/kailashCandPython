@@ -6,6 +6,7 @@ int main(){
     float arr2[3]={23.5,45.7,56.9};
     char arr3[6]={'H','E','L','L','O'};
 
+
     // Defining array without size
 
     int arr4[]={34,342,346,457,76,45,23};
