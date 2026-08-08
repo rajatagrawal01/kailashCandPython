@@ -12,7 +12,6 @@ int main(){
     struct marks kailash;
     struct marks Rajat;
 
-
     kailash.chem=34;
     kailash.english=243;
     kailash.hindi=345;
