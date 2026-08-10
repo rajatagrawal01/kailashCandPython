@@ -35,13 +35,15 @@ int main(){
     
     //Taking user input and storing it in file
 
-    char empName[100];
-    fp=fopen("data.txt","w");
-    printf("Enter Employee name :");
-    scanf("%s",empName);
-    fprintf(fp,"%s\n",empName);
-    fclose(fp);
+    // char empName[100];
+    // fp=fopen("data.txt","w");
+    // printf("Enter Employee name :");
+    // scanf("%s",empName);
+    // fprintf(fp,"%s\n",empName);
+    // fclose(fp);
 
+    // remove("data.txt");
+    rename("data.txt","stu.txt");
 
     return 0;
 }
