@@ -1,0 +1,10 @@
+C=====>C++
+stdio.h===>iostream
+char arr[]==>string
+printf===>cout
+scanf===>cin
+\n===>endl
+
+
+
+cout<<Content that needs to be printed
