@@ -12,6 +12,5 @@ int main(){
    cout<<"The mul of a and b is : "<<a*b<<endl;
    cout<<"The div of a and b is : "<<a/b<<endl;
 
-   
    return 0;
 }

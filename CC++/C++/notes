@@ -8,3 +8,15 @@ scanf===>cin
 
 
 cout<<Content that needs to be printed
+
+m=45
+e=35
+P=67
+C=87
+H=34
+
+m/10=4.5
+e/10=3.5
+P/10=6.7
+C/10=8.7
+H/10=3.4
